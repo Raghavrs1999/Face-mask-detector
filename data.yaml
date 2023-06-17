@@ -1,0 +1,8 @@
+path: 'E:/mask_detection/dataset/'  
+train: 'E:/mask_detection/dataset_mask/train/imgaes'  
+val: 'E:/mask_detection/dataset_mask/val/imgaes'  
+
+names:
+  0: 'without_mask'
+  1: 'with_mask'
+  2: 'mask_weared_incorrect'
